@@ -1,0 +1,16 @@
+NAME : 05°E051-05e
+COMMENT : Christofides and Eilon, 1969
+TYPE    : HREAL
+ROUTES  : 5
+COST    : 1007.05                          
+SOLUTION_SECTION
+ #R   SUMD        VEHICLE_TYPE    FIXED_VEHICLE_COST      LENGTH   #C   SEQUENCE
+  1    67               D                 120             51.99     3     13 18 17 
+  2    18               A		  20		  30.66     2     4 19
+  3    29		B		  35		  32.56     1     12
+  4    120		E		  225    	  141.83    7     10 9 16 2 20 3 6
+  5    120		E		  225		  125.01    7     14 7 8 1 11 5 15     
+          
+DEPOT_SECTION
+1
+END 

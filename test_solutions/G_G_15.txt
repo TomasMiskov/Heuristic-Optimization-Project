@@ -1,0 +1,25 @@
+NAME : 15°E051-05e
+COMMENT : Christofides and Eilon, 1969
+TYPE    : HREAL
+ROUTES  : 13
+COST    : 2586.37                          
+SOLUTION_SECTION
+ #R   SUMD        VEHICLE_TYPE    FIXED_VEHICLE_COST      LENGTH   #C   SEQUENCE
+  1    50              A                  100             39.59    2     4 18
+  2    49              A		  100		  47.60    2     25 14
+  3    48	       A		  100		  67.53    3     8 31 28
+  4    48	       A		  100    	  47.61    3     6 23 48     
+  5    50	       A		  100		  69.36    3     34 30 46
+  6    50	       A		  100		  31.42    2     12 5      
+  7    49              A		  100		  47.07    3     11 16 38
+  8    100	       B		  250		  100.06   8     37 15 45 33 39 10 49 9 
+  9    99	       B		  250    	  109.50   8     22 3 36 35 20 29 21 50     
+  10   98	       B		  250		  105.95   7     13 41 40 19 42 44 17    
+  11   47	       A		  100		  88.81    4     24 43 7 26 
+  12   40	       A		  100    	  34.20    2     27 47 
+  13   49	       A		  100		  47.66    3     32 2 1
+ 
+ 
+DEPOT_SECTION
+1
+END 
