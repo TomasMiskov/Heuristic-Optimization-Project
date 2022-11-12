@@ -1,4 +1,4 @@
-This is an implementation of several heuristic methods for solving the heterogeneous vehicle routing problem. In particular I solve the VFMP-F: Vehicle Fleet Mix Problem with Fixed Costs. All the details are in the report, the VFMP.ipynb is a Jupyter Notebook file that includes all the code.
+This is an implementation of several heuristic methods for solving the heterogeneous vehicle routing problem. In particular I solve the VFMP-F: **Vehicle Fleet Mix Problem with Fixed Costs**. All the details are in the report, the VFMP.ipynb is a Jupyter Notebook file that includes all the code.
 
 There are instructions in there on how to test any of the functions mentioned in the report on a single instance. You can also re-run any of the experiments mentioned in the report.
 
